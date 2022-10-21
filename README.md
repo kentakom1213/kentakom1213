@@ -3,3 +3,6 @@
 
 ![stats-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kentakom1213&layout=compact&theme=swift)
 
+## AtCoder
+![my_atcoder_rating](https://badgen.org/img/atcoder/powell/rating/algorithm?style=flat) ![my_atcoder_rating](https://badgen.org/img/atcoder/powell/rating/heuristic?style=flat)
+
