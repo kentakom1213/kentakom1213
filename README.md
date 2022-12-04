@@ -4,5 +4,5 @@
 ![stats-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kentakom1213&layout=compact&theme=swift)
 
 ## AtCoder
-[![my_atcoder_rating](https://badgen.org/img/atcoder/Powell/rating/algorithm?style=flat)](https://atcoder.jp/users/powell)
-[![my_atcoder_rating](https://badgen.org/img/atcoder/Powell/rating/heuristic?style=flat)](https://atcoder.jp/users/powell?contestType=heuristic)
+[![my_atcoder_rating](https://badgen.org/img/atcoder/powell/rating/algorithm?style=flat&ver=1)](https://atcoder.jp/users/powell)
+[![my_atcoder_rating](https://badgen.org/img/atcoder/powell/rating/heuristic?style=flat&ver=1)](https://atcoder.jp/users/powell?contestType=heuristic)
