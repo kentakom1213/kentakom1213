@@ -1,6 +1,7 @@
-![stats](https://github-readme-stats-47aagncxh-kentakom1213.vercel.app/api?username=kentakom1213&show_icons=true&count_private=true&theme=swift&version=2)
-
-![stats-lang](https://github-readme-stats-47aagncxh-kentakom1213.vercel.app/api/top-langs/?username=kentakom1213&layout=compact&theme=swift&version=2)
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentakom1213&layout=compact" > </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" ><img src="https://github-readme-stats.vercel.app/api?username=kentakom1213&show_icons=true&count_private=true" > </a>
+</div>
 
 ## Langs/Tools
 
