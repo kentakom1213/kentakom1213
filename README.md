@@ -1,6 +1,6 @@
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kentakom1213&layout=compact" > </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" ><img src="https://github-readme-stats.vercel.app/api?username=kentakom1213&show_icons=true&count_private=true" > </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" ><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kentakom1213&layout=compact" > </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" ><img src="https://github-readme-stats.shion.dev/api?username=kentakom1213&show_icons=true&count_private=true" > </a>
 </div>
 
 ## Langs/Tools
