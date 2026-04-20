@@ -1,65 +1,33 @@
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats"
-    ><img
-      src="https://github-readme-stats.shion.dev/api?username=kentakom1213&show_icons=true&count_private=true"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"
-    ><img
-      src="https://github-readme-stats.shion.dev/api/top-langs/?username=kentakom1213&layout=compact"
-    />
-  </a>
-</div>
+# KOMOTO Kenta
 
-## Langs/Tools
+Algorithm / Systems / Rust
 
-<div>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
-      alt="rust"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-</div>
+---
 
-## AtCoder
+## Interests
 
-<a href="https://atcoder.jp/users/powell" target="_blank" title="powell">
-  <img
-    src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fpowell"
-  />
-</a>
+- Graph Algorithms
+- Data Structures
+- Performance & Efficiency
+
+---
+
+## Tech Stack
+
+### Languages
+![Rust](https://img.shields.io/badge/-Rust-000?logo=rust)
+![Python](https://img.shields.io/badge/-Python-000?logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
+
+### Backend / Systems
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?logo=cloudflare)
+
+---
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kentakom1213&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kentakom1213&layout=compact&theme=transparent)
