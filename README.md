@@ -2,29 +2,22 @@
 
 Algorithm / Systems / Rust
 
----
-
 ## Interests
 
 - Graph Algorithms
 - Data Structures
 - Performance & Efficiency
 
----
-
 ## Tech Stack
 
 ### Languages
 ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust)
 ![Python](https://img.shields.io/badge/-Python-000?logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
 
 ### Backend / Systems
 ![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?logo=cloudflare)
-
----
 
 ## Stats
 
