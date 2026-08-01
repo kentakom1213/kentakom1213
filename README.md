@@ -14,6 +14,7 @@ Algorithm / Systems / Rust
 
 ![Rust](https://img.shields.io/badge/-Rust-000?logo=rust)
 ![Python](https://img.shields.io/badge/-Python-000?logo=python)
+![Go](https://img.shields.io/badge/-Go-000?logo=go)
 
 ### Backend / Systems
 
