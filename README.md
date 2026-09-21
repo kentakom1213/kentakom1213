@@ -1,11 +1,9 @@
 # KOMOTO Kenta
 
-Algorithm / Systems / Rust
-
 ## Interests
 
-- Graph Algorithms
-- Data Structures
+- Algorithms & Data Structures
+- Distributed Systems
 - Performance & Efficiency
 
 ## Tech Stack
